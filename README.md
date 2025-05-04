@@ -15,7 +15,14 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 64.86161251504213%; height: 0;"><iframe src="https://www.loom.com/embed/7c75fa1774d04bdf806e5a7a45b53aa5?sid=618c13a0-866d-4f81-9a1d-cb15d36aae32" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/7c75fa1774d04bdf806e5a7a45b53aa5">
+      <p>Re:  - 4 May 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/7c75fa1774d04bdf806e5a7a45b53aa5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7c75fa1774d04bdf806e5a7a45b53aa5-eda5f5809117c723-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 ## 📱 App Brainstorming
